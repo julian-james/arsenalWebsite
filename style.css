@@ -1,0 +1,13 @@
+.table-section {
+    
+}
+
+table {
+    display: flex;
+    justify-content: center;
+}
+
+.rows {
+    background-color: red;
+    color: white;
+}
