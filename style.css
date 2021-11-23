@@ -17,9 +17,17 @@ p{
 table {
     display: flex;
     justify-content: center;
+    padding-bottom: 20px;
 }
 
 .rows {
     background-color: red;
     color: white;
 }
+
+.img-anchor {
+    display: flex;
+    justify-content: center;
+}
+
+body {background: rgb(255, 215, 215)}
